@@ -1,5 +1,7 @@
 What happens when a business can't answer a simple, critical question: "Who is managing our customers?"
 
+<img width="965" height="539" alt="Prezi-copyrighted" src="https://github.com/user-attachments/assets/570cd39e-daf0-4d59-8294-03692eb48464" />
+
 This project tackles that exact problem. It's a journey from a challenging, raw dataset to a clean, interactive Power BI dashboard that provides a single source of truth for portfolio management.
 
 Project Presentation & Video Walkthrough: 
@@ -13,6 +15,8 @@ The Situation: A Critical Blind Spot
 What happens when a business can't easily see who is managing its customers?
 
 This was the central question I tackled for my final project as a Summer Intern in the Power BI Department at Celebal Technologies.
+
+
 
 Imagine a large organization with hundreds of customer portfolios, or "Pool Codes." Each pool represents a group of clients that should be managed by a dedicated Relationship Manager (RM). 
 The problem was, there was no easy way to track which pools were actively managed and which were vacant or unassigned. 
@@ -29,6 +33,10 @@ Where are our risks? Immediately identify the "unmapped" or vacant pools that ne
 How are our resources allocated? Understand the distribution of products and customer accounts across the different portfolios.
 
 My Action: A Step-by-Step Approach to a Solution
+
+<img width="962" height="543" alt="image" src="https://github.com/user-attachments/assets/d0868faf-ada6-4ecb-80d0-19bc59d0aad9" />
+
+
 Building a useful dashboard isn't just about making charts. It's about telling a story and making the data easy to understand.
 
 Here was my process:
@@ -43,6 +51,8 @@ Here was my process:
 
    Reshaping for Analysis: The product data was spread across 20+ columns, making it impossible to analyze.
    I completely restructured this by "unpivoting" it into a lean, long format. This single step unlocked the ability to create powerful visuals for product analysis.
+
+   <img width="1078" height="667" alt="pool-jasdgkhhkjhlkjk222222" src="https://github.com/user-attachments/assets/e81f76f2-ff79-479c-bb5b-6f02f141b6a5" />
 
 2. Designing the Dashboard:
    I designed the dashboard with the end-user in mind, from the executive who needs a quick summary to the manager who needs to dig into the details.
@@ -59,9 +69,26 @@ Interactive Filtering: I added a slicer that allows any user to dynamically filt
 The Result: From a Messy Spreadsheet to Actionable Intelligence
 The final result is a polished, intuitive, and interactive Power BI dashboard that serves as a single source of truth for Pool Code management.
 
-The key impact? It empowers the business to act.
+  <img width="1079" height="659" alt="image" src="https://github.com/user-attachments/assets/9e909311-10c1-4535-a137-1430dbe4f51d" />
+  
+
+
+The key impact? 
+
+
+
+<img width="962" height="538" alt="image" src="https://github.com/user-attachments/assets/9de9eb5a-c73d-4282-ae50-fa000519d566" />
+
+
+
+
+It empowers the business to act.
 
 Instead of spending hours trying to piece together information, leadership can now, in seconds, identify the exact 213 unmapped pool codes that represent an operational risk. 
 They can analyze workload distribution and make informed decisions about resource allocation.
 
 This project took a static, messy dataset and transformed it into a living tool that drives accountability and enables data-driven decision-making.
+
+<img width="962" height="540" alt="image" src="https://github.com/user-attachments/assets/dd022e71-5b82-4bc2-a9f2-970a9096aa01" />
+
+
